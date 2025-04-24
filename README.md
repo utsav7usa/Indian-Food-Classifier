@@ -21,4 +21,4 @@ This project uses Google’s Teachable Machine to create an AI model that classi
 
 ## Links
 - Portfolio: [Insert Carrd link here]
-- Demo: [Insert Teachable Machine shareable link if available]
+- Demo: https://teachablemachine.withgoogle.com/models/CZo3EZF6qk/
