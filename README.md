@@ -20,5 +20,5 @@ This project uses Google’s Teachable Machine to create an AI model that classi
 3. Tested with new images to verify predictions.
 
 ## Links
-- Portfolio: utsavkumar-ai-portfolio
+- Portfolio: https://utsavkumar-ai-portfolio.carrd.co/
 - Demo: https://teachablemachine.withgoogle.com/models/CZo3EZF6qk/
